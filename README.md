@@ -25,6 +25,12 @@ to fork the library to add it to the project. This library is used to control th
 make sure its properly installed before you begin using the application. Instructions on how to fully integrate this
 library with CMake can be found [here](https://courses.grainger.illinois.edu/cs126/sp2020/notes/cmake/).
 
+To download the repository, run the following command
+
+```
+git clone https://github.com/nbalepur/scrabble.git
+```
+
 Once everything is set up, you can run the application, with the `run.cc` file using the cinder-myapp configuration
 
 ## Practicing against the AI
